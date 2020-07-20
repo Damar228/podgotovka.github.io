@@ -1,0 +1,139 @@
+
+.main-nav{
+    display: flex;
+    padding-top: 40px;
+  margin-bottom: 110px       
+}
+.sait-menu{
+    display: flex;
+    width: 660px;
+    flex-wrap:wrap;
+    list-style:none;
+    margin-top: 30px
+}
+.sait-menu li{
+ margin-right: 25px                            
+}
+.container{
+    margin-top: 30px;
+    margin-left: 80.1px;
+    margin-right: 80.1px
+}
+.napishi-pozvoni{
+ display: flex;  
+list-style:none;
+    width: 180px;
+    margin-left: auto
+}
+.icon-chat{
+    display: block;
+    width: 17px;
+    height: 15px;
+    background-image: url(../img/mail-icon.png)
+}
+.icon-pozvonit{
+  display: block;
+    width: 17px;
+    height: 17px;
+    background-image: url(../img/phon-icon.png)  
+}
+.napishi-pozvoni li{
+    margin-right: 20px                  
+}
+.visually-hidden{
+width: 1px;
+height: 1px;
+display: none
+}
+.container-columns{
+ display:flex;
+ flex-wrap: wrap    
+}
+.left-column{
+ width: 440px;
+margin-right: 80px    
+}
+.right-column{
+ width: 440px;
+margin-right: 80px    
+}
+.about-us h1{
+    font-family: Courier New Bold;
+    font-size: 45px;
+    line-height: 45px;
+    padding-right: 75    
+}
+.about-us p{
+font-family: Verdana;    
+}
+body{
+background-color: #222222;
+color: #ffffff    
+}
+.tur{
+background-color: #ffffff;
+color: #222222
+}
+.recomendation {
+    background-color: #ffffff;
+    color: black;
+}
+.format {
+    font-family:  Courier New ; 
+    font-size: 24px;
+}
+.footer-columns{
+display: flex;      
+}
+.footer-columns .left-column{
+width:180px;
+margin-left: 80px;
+margin-right: 40px;
+margin-bottom: 20px    
+}
+.logo{
+    
+}
+.copyright{
+color: #555555;
+font-family: Verdana;
+font-size: 14px;
+    padding-top: 30px
+}
+.logo{
+    display: flex;
+    align-items: center
+}
+.logotip{
+    color: #d4d4d4;
+}
+.footer-columns .right-column{
+    width: 700px;
+    padding-top: 35px
+}
+.footer-menu{
+    display: flex;
+    list-style: none;
+}
+.footer-sub menu{
+    list-style: none
+}
+.footer-menu li{
+    width: 180px;
+    margin-right: 40px
+}
+.footer-sub menu li{
+margin-bottom: 20px    
+}
+.footer-menu a{
+color: white;
+    text-decoration: none
+}
+.sait-menu a{
+ color: white;
+    text-decoration: none   
+}
+.footer-title{
+text-transform: uppercase;
+border-bottom: 1px solid orange
+}
